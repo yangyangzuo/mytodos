@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.1">
   <diagram name="第 1 页" id="o6YkjQdDF1RqOcQpJtPp">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,27 @@
         </mxCell>
         <mxCell id="XUHPIvYPxtX43MUzcUfK-13" value="3DTilesRendererJS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gegNPiZm02WqxOPp7qKU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gegNPiZm02WqxOPp7qKU-1" target="gegNPiZm02WqxOPp7qKU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gegNPiZm02WqxOPp7qKU-1" value="八叉树" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gegNPiZm02WqxOPp7qKU-2" value="数据结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gegNPiZm02WqxOPp7qKU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gegNPiZm02WqxOPp7qKU-3" target="gegNPiZm02WqxOPp7qKU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gegNPiZm02WqxOPp7qKU-3" value="碰撞检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gegNPiZm02WqxOPp7qKU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gegNPiZm02WqxOPp7qKU-6" target="gegNPiZm02WqxOPp7qKU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gegNPiZm02WqxOPp7qKU-6" value="场景漫游" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="830" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
