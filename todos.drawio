@@ -106,19 +106,16 @@
         <mxCell id="_oio0iws3nPVt2thrT7--3" value="webglrendertarget" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_oio0iws3nPVt2thrT7--6" value="threejs--math--点到面的距离" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1600" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_oio0iws3nPVt2thrT7--7" value="cannonjs---3dtiles动态场景碰撞检查" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="1694" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V9corl40bEExTPDlHfBx-2" value="性能优化:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V9corl40bEExTPDlHfBx-2" value="性能优化:" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V9corl40bEExTPDlHfBx-5" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="V9corl40bEExTPDlHfBx-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1180" y="840" width="300" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="V9corl40bEExTPDlHfBx-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="V9corl40bEExTPDlHfBx-5">
+        <mxCell id="V9corl40bEExTPDlHfBx-3" value="" style="whiteSpace=wrap;html=1;" parent="V9corl40bEExTPDlHfBx-5" vertex="1">
           <mxGeometry y="30" width="300" height="270" as="geometry" />
         </mxCell>
         <mxCell id="BOs9fSYbCUu3QP43SSLh-6" value="cdn" style="rounded=0;whiteSpace=wrap;html=1;" parent="V9corl40bEExTPDlHfBx-5" vertex="1">
@@ -127,11 +124,20 @@
         <mxCell id="BOs9fSYbCUu3QP43SSLh-5" value="indexdb" style="rounded=0;whiteSpace=wrap;html=1;" parent="V9corl40bEExTPDlHfBx-5" vertex="1">
           <mxGeometry x="90" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V9corl40bEExTPDlHfBx-4" value="缓存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="V9corl40bEExTPDlHfBx-5">
+        <mxCell id="V9corl40bEExTPDlHfBx-4" value="缓存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="V9corl40bEExTPDlHfBx-5" vertex="1">
           <mxGeometry x="125" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V9corl40bEExTPDlHfBx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V9corl40bEExTPDlHfBx-2" target="V9corl40bEExTPDlHfBx-4">
+        <mxCell id="V9corl40bEExTPDlHfBx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="V9corl40bEExTPDlHfBx-2" target="V9corl40bEExTPDlHfBx-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QEs9ax8XYQ58xlN3ZTaT-2" value="指南针" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEs9ax8XYQ58xlN3ZTaT-3" value="鸟瞰图" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEs9ax8XYQ58xlN3ZTaT-5" value="相机人物跟随" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
