@@ -130,13 +130,10 @@
         <mxCell id="V9corl40bEExTPDlHfBx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="V9corl40bEExTPDlHfBx-2" target="V9corl40bEExTPDlHfBx-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QEs9ax8XYQ58xlN3ZTaT-2" value="指南针" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QEs9ax8XYQ58xlN3ZTaT-3" value="鸟瞰图" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="QEs9ax8XYQ58xlN3ZTaT-3" value="鸟瞰图" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="110" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QEs9ax8XYQ58xlN3ZTaT-5" value="相机人物跟随" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="QEs9ax8XYQ58xlN3ZTaT-5" value="相机人物跟随" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="690" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
