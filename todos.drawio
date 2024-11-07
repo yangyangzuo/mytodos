@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="第 1 页" id="o6YkjQdDF1RqOcQpJtPp">
     <mxGraphModel dx="1434" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -142,8 +142,32 @@
         <mxCell id="vuwgF-b-S_usOwfetUPp-1" value="post-processing" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="185" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="422-IZNzGWqYZv7-8Ofl-1" value="webgpu" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="422-IZNzGWqYZv7-8Ofl-1" value="webgpu" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QF0eKW8hfXhz2bjkkEv7-1" value="opengl" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QF0eKW8hfXhz2bjkkEv7-2" value="blender" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QF0eKW8hfXhz2bjkkEv7-3" value="ue4" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="-900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QF0eKW8hfXhz2bjkkEv7-4" value="ps" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QF0eKW8hfXhz2bjkkEv7-5" value="qgis" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QF0eKW8hfXhz2bjkkEv7-6" value="webgpu" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QF0eKW8hfXhz2bjkkEv7-7" value="webgl" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QF0eKW8hfXhz2bjkkEv7-8" value="vulkan" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
