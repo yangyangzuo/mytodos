@@ -169,11 +169,11 @@
         <mxCell id="QF0eKW8hfXhz2bjkkEv7-8" value="vulkan" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yEuWk_T_Y84hTjrZyW8x-1" value="threejs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yEuWk_T_Y84hTjrZyW8x-1" value="threejs" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="-1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yEuWk_T_Y84hTjrZyW8x-2" value="babylon.js" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-1010" width="120" height="60" as="geometry" />
+        <mxCell id="yEuWk_T_Y84hTjrZyW8x-2" value="babylon.js" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
