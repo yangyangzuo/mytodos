@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="3">
-  <diagram name="第 1 页" id="o6YkjQdDF1RqOcQpJtPp">
+  <diagram name="基础科学" id="o6YkjQdDF1RqOcQpJtPp">
     <mxGraphModel dx="1593" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -56,16 +56,16 @@
           <mxGeometry x="1020" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QEs9ax8XYQ58xlN3ZTaT-3" value="鸟瞰图" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="180" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="861" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QEs9ax8XYQ58xlN3ZTaT-5" value="相机人物跟随" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1121" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vuwgF-b-S_usOwfetUPp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="vuwgF-b-S_usOwfetUPp-1" target="QEs9ax8XYQ58xlN3ZTaT-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vuwgF-b-S_usOwfetUPp-1" value="post-processing" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="185" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="866" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QF0eKW8hfXhz2bjkkEv7-1" value="opengl" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="-1110" width="120" height="60" as="geometry" />
