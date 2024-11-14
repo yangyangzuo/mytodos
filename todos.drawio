@@ -110,7 +110,7 @@
           <mxGeometry x="140" y="1694" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V9corl40bEExTPDlHfBx-2" value="性能优化:" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1385" y="-780" width="120" height="60" as="geometry" />
+          <mxGeometry x="1385" y="-754" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QEs9ax8XYQ58xlN3ZTaT-3" value="鸟瞰图" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="180" y="1270" width="120" height="60" as="geometry" />
@@ -158,13 +158,16 @@
           <mxGeometry x="1170" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BOs9fSYbCUu3QP43SSLh-5" value="indexdb" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="-1110" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380" y="-970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BOs9fSYbCUu3QP43SSLh-6" value="cdn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="-1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V9corl40bEExTPDlHfBx-4" value="缓存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="-885" width="50" height="30" as="geometry" />
+          <mxGeometry x="1415" y="-860" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="riRZKg0jbgBReU0U_gJB-5" value="nginx" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="-1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
