@@ -169,6 +169,12 @@
         <mxCell id="riRZKg0jbgBReU0U_gJB-5" value="nginx" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="-1040" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="riRZKg0jbgBReU0U_gJB-6" value="zip" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="-1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riRZKg0jbgBReU0U_gJB-7" value="项目文件打包为gz" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="-1040" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
