@@ -31,26 +31,17 @@
         <mxCell id="XUHPIvYPxtX43MUzcUfK-13" value="3DTilesRendererJS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rZd4Q6Lg-qDR5uAK9qM4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rZd4Q6Lg-qDR5uAK9qM4-1" target="rZd4Q6Lg-qDR5uAK9qM4-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rZd4Q6Lg-qDR5uAK9qM4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rZd4Q6Lg-qDR5uAK9qM4-1" target="rZd4Q6Lg-qDR5uAK9qM4-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rZd4Q6Lg-qDR5uAK9qM4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rZd4Q6Lg-qDR5uAK9qM4-1" target="rZd4Q6Lg-qDR5uAK9qM4-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rZd4Q6Lg-qDR5uAK9qM4-1" value="数学" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="-150" width="120" height="60" as="geometry" />
+          <mxGeometry x="2020" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rZd4Q6Lg-qDR5uAK9qM4-2" value="高等数学" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="-300" width="120" height="60" as="geometry" />
+          <mxGeometry x="2030" y="-970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rZd4Q6Lg-qDR5uAK9qM4-3" value="线性代数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="-150" width="120" height="60" as="geometry" />
+          <mxGeometry x="2030" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rZd4Q6Lg-qDR5uAK9qM4-4" value="解析几何" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="2030" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QEs9ax8XYQ58xlN3ZTaT-3" value="鸟瞰图" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="861" y="430" width="120" height="60" as="geometry" />
@@ -130,10 +121,10 @@
           <mxGeometry x="1230" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ReFwKoLgLg2RM1xsZzXK-1" value="模型压缩" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2360" y="-1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="2361" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ReFwKoLgLg2RM1xsZzXK-2" value="纹理压缩" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="-1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="2590" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
