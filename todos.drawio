@@ -129,6 +129,12 @@
         <mxCell id="y02icWgz6Zwk2SitKWMV-1" value="浏览器缓存" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ReFwKoLgLg2RM1xsZzXK-1" value="模型压缩" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="-1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ReFwKoLgLg2RM1xsZzXK-2" value="纹理压缩" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="-1120" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
