@@ -103,7 +103,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7_JTS6EgYTBXgk2kUauN-1" value="性能优化:" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1385" y="-754" width="120" height="60" as="geometry" />
+          <mxGeometry x="1330" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7_JTS6EgYTBXgk2kUauN-2" value="webAssembly" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="-1110" width="120" height="60" as="geometry" />
@@ -116,9 +116,6 @@
         </mxCell>
         <mxCell id="7_JTS6EgYTBXgk2kUauN-5" value="cdn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="-1110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7_JTS6EgYTBXgk2kUauN-6" value="缓存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1415" y="-860" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7_JTS6EgYTBXgk2kUauN-7" value="nginx" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1570" y="-1110" width="120" height="60" as="geometry" />
