@@ -1,35 +1,14 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6" pages="4">
   <diagram name="基础科学" id="o6YkjQdDF1RqOcQpJtPp">
     <mxGraphModel dx="1687" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XUHPIvYPxtX43MUzcUfK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XUHPIvYPxtX43MUzcUfK-6" target="XUHPIvYPxtX43MUzcUfK-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XUHPIvYPxtX43MUzcUfK-6" value="3d tiles数据获取" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XUHPIvYPxtX43MUzcUfK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XUHPIvYPxtX43MUzcUfK-7" target="XUHPIvYPxtX43MUzcUfK-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XUHPIvYPxtX43MUzcUfK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XUHPIvYPxtX43MUzcUfK-7" target="XUHPIvYPxtX43MUzcUfK-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XUHPIvYPxtX43MUzcUfK-7" value="3dtiles数据加载" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XUHPIvYPxtX43MUzcUfK-8" value="three-loader-3dtiles" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="510" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="XUHPIvYPxtX43MUzcUfK-9" value="qgis软件使用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1600" y="-960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XUHPIvYPxtX43MUzcUfK-11" value="qgis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1510" y="-1110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XUHPIvYPxtX43MUzcUfK-13" value="3DTilesRendererJS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rZd4Q6Lg-qDR5uAK9qM4-1" value="数学" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2020" y="-1110" width="120" height="60" as="geometry" />
@@ -42,18 +21,6 @@
         </mxCell>
         <mxCell id="rZd4Q6Lg-qDR5uAK9qM4-4" value="解析几何" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2030" y="-710" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QEs9ax8XYQ58xlN3ZTaT-3" value="鸟瞰图" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="861" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QEs9ax8XYQ58xlN3ZTaT-5" value="相机人物跟随" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1121" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vuwgF-b-S_usOwfetUPp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="vuwgF-b-S_usOwfetUPp-1" target="QEs9ax8XYQ58xlN3ZTaT-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vuwgF-b-S_usOwfetUPp-1" value="post-processing" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="866" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QF0eKW8hfXhz2bjkkEv7-1" value="opengl" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="-1110" width="120" height="60" as="geometry" />
@@ -172,6 +139,47 @@
         </mxCell>
         <mxCell id="yFFzrfuUTi1Nn4h1I8PE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yFFzrfuUTi1Nn4h1I8PE-7" target="aR4siIWoNy2LFy-JrI11-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zrQHF8yJeLc80bn3TEiT" name="数据格式和加载方法">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mRKanv9Ok4c1hyVDO7-R-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mRKanv9Ok4c1hyVDO7-R-2" target="mRKanv9Ok4c1hyVDO7-R-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRKanv9Ok4c1hyVDO7-R-2" value="3d tiles数据获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRKanv9Ok4c1hyVDO7-R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRKanv9Ok4c1hyVDO7-R-5" target="mRKanv9Ok4c1hyVDO7-R-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRKanv9Ok4c1hyVDO7-R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRKanv9Ok4c1hyVDO7-R-5" target="mRKanv9Ok4c1hyVDO7-R-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRKanv9Ok4c1hyVDO7-R-5" value="3dtiles数据加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRKanv9Ok4c1hyVDO7-R-6" value="three-loader-3dtiles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRKanv9Ok4c1hyVDO7-R-7" value="3DTilesRendererJS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRKanv9Ok4c1hyVDO7-R-8" value="鸟瞰图" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="861" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRKanv9Ok4c1hyVDO7-R-9" value="相机人物跟随" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRKanv9Ok4c1hyVDO7-R-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="mRKanv9Ok4c1hyVDO7-R-11" target="mRKanv9Ok4c1hyVDO7-R-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mRKanv9Ok4c1hyVDO7-R-11" value="post-processing" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="866" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
