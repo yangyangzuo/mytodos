@@ -148,26 +148,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mRKanv9Ok4c1hyVDO7-R-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mRKanv9Ok4c1hyVDO7-R-2" target="mRKanv9Ok4c1hyVDO7-R-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="mRKanv9Ok4c1hyVDO7-R-2" value="3d tiles数据获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mRKanv9Ok4c1hyVDO7-R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRKanv9Ok4c1hyVDO7-R-5" target="mRKanv9Ok4c1hyVDO7-R-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mRKanv9Ok4c1hyVDO7-R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mRKanv9Ok4c1hyVDO7-R-5" target="mRKanv9Ok4c1hyVDO7-R-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="50" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mRKanv9Ok4c1hyVDO7-R-5" value="3dtiles数据加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mRKanv9Ok4c1hyVDO7-R-6" value="three-loader-3dtiles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mRKanv9Ok4c1hyVDO7-R-7" value="3DTilesRendererJS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mRKanv9Ok4c1hyVDO7-R-8" value="鸟瞰图" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="861" y="430" width="120" height="60" as="geometry" />
