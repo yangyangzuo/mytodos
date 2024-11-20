@@ -91,10 +91,10 @@
           <mxGeometry x="2330" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C56aYHbkjovNg2UDgPtt-1" value="大疆制图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2480" y="-680" width="120" height="60" as="geometry" />
+          <mxGeometry x="2500" y="-680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C56aYHbkjovNg2UDgPtt-2" value="大疆智模" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="-680" width="120" height="60" as="geometry" />
+          <mxGeometry x="2330" y="-680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
