@@ -26,15 +26,15 @@
     </mxGraphModel>
   </diagram>
   <diagram name="基础科学" id="o6YkjQdDF1RqOcQpJtPp">
-    <mxGraphModel dx="819" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="2288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XUHPIvYPxtX43MUzcUfK-9" value="qgis软件使用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1890" y="-970" width="120" height="60" as="geometry" />
+          <mxGeometry x="1770" y="-1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XUHPIvYPxtX43MUzcUfK-11" value="qgis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1800" y="-1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1770" y="-1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QF0eKW8hfXhz2bjkkEv7-1" value="opengl" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="-1120" width="120" height="60" as="geometry" />
@@ -63,31 +63,31 @@
         <mxCell id="yEuWk_T_Y84hTjrZyW8x-2" value="babylon.js" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="43hTWujUJNdbhN71EOKc-1" value="arcgis" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="-1120" width="120" height="60" as="geometry" />
+        <mxCell id="43hTWujUJNdbhN71EOKc-1" value="arcgis" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1770" y="-900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sg9lwqoJGPFSilAlO2yi-2" value="数学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sg9lwqoJGPFSilAlO2yi-2" value="数学" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="-1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sg9lwqoJGPFSilAlO2yi-3" value="高等数学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sg9lwqoJGPFSilAlO2yi-3" value="高等数学" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="-980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sg9lwqoJGPFSilAlO2yi-4" value="线性代数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sg9lwqoJGPFSilAlO2yi-4" value="线性代数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="-850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sg9lwqoJGPFSilAlO2yi-5" value="解析几何" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sg9lwqoJGPFSilAlO2yi-5" value="解析几何" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="-720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sg9lwqoJGPFSilAlO2yi-6" value="三维重建" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sg9lwqoJGPFSilAlO2yi-6" value="三维重建" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2250" y="-1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sg9lwqoJGPFSilAlO2yi-7" value="context cpatuer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sg9lwqoJGPFSilAlO2yi-7" value="context cpatuer" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2250" y="-1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sg9lwqoJGPFSilAlO2yi-8" value="reality capture" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sg9lwqoJGPFSilAlO2yi-8" value="reality capture" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2250" y="-900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sg9lwqoJGPFSilAlO2yi-9" value="meshroom" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sg9lwqoJGPFSilAlO2yi-9" value="meshroom" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2250" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
