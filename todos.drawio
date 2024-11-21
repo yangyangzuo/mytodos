@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="5">
   <diagram id="vWEDw9_LgnvMWuBVMpru" name="todos">
-    <mxGraphModel dx="1185" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="607" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,11 +16,41 @@
         <mxCell id="41gbBa7BW9XgDOjUTdJS-4" value="post-processing" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="861" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WVvJsaTqf9cPWK49FNuo-1" value="大疆制图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-1" value="qgis软件使用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WVvJsaTqf9cPWK49FNuo-2" value="大疆智模" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1614" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-2" value="qgis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-3" value="arcgis" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-4" value="三维重建" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-5" value="context cpatuer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-6" value="reality capture" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-7" value="meshroom" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-8" value="大疆制图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-9" value="大疆智模" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-10" value="&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;cesiumlab&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-11" value="GISBox" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-12" value="osgb -----&amp;gt; b3dm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="930" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
