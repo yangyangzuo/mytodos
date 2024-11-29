@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3" pages="5">
   <diagram id="vWEDw9_LgnvMWuBVMpru" name="todos">
-    <mxGraphModel dx="420" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="607" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,65 +16,71 @@
         <mxCell id="41gbBa7BW9XgDOjUTdJS-4" value="post-processing" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="861" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-1" value="qgis软件使用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-1" value="qgis软件使用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-2" value="qgis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-2" value="qgis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-3" value="arcgis" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-3" value="arcgis" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-4" value="三维重建" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-4" value="三维重建" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1740" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-5" value="context cpatuer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-5" value="context cpatuer" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1740" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-6" value="reality capture" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-6" value="reality capture" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1740" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-7" value="meshroom" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-7" value="meshroom" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1740" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-8" value="大疆制图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-8" value="大疆制图" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1750" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-9" value="大疆智模" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-9" value="大疆智模" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-13" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1350" y="810" width="120" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-10" value="&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;cesiumlab&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="FTkk2QAchOgNW1-fvyxM-13">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-10" value="&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;cesiumlab&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="FTkk2QAchOgNW1-fvyxM-13" vertex="1">
           <mxGeometry y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-11" value="GISBox" style="whiteSpace=wrap;html=1;" vertex="1" parent="FTkk2QAchOgNW1-fvyxM-13">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-11" value="GISBox" style="whiteSpace=wrap;html=1;" parent="FTkk2QAchOgNW1-fvyxM-13" vertex="1">
           <mxGeometry y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-12" value="1.osgb -----&amp;gt; b3dm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FTkk2QAchOgNW1-fvyxM-13">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-12" value="1.osgb -----&amp;gt; b3dm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FTkk2QAchOgNW1-fvyxM-13" vertex="1">
           <mxGeometry width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-20" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-20" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1630" y="820" width="270" height="439" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-14" value="2.使用重建软件,根据照片生成模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FTkk2QAchOgNW1-fvyxM-20">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-14" value="2.使用重建软件,根据照片生成模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FTkk2QAchOgNW1-fvyxM-20" vertex="1">
           <mxGeometry x="20" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-15" value="context cpatuer" style="whiteSpace=wrap;html=1;" vertex="1" parent="FTkk2QAchOgNW1-fvyxM-20">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-15" value="context cpatuer" style="whiteSpace=wrap;html=1;" parent="FTkk2QAchOgNW1-fvyxM-20" vertex="1">
           <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-16" value="reality capture" style="whiteSpace=wrap;html=1;" vertex="1" parent="FTkk2QAchOgNW1-fvyxM-20">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-16" value="reality capture" style="whiteSpace=wrap;html=1;" parent="FTkk2QAchOgNW1-fvyxM-20" vertex="1">
           <mxGeometry x="60" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-17" value="meshroom" style="whiteSpace=wrap;html=1;" vertex="1" parent="FTkk2QAchOgNW1-fvyxM-20">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-17" value="meshroom" style="whiteSpace=wrap;html=1;" parent="FTkk2QAchOgNW1-fvyxM-20" vertex="1">
           <mxGeometry x="60" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-18" value="大疆制图" style="whiteSpace=wrap;html=1;" vertex="1" parent="FTkk2QAchOgNW1-fvyxM-20">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-18" value="大疆制图" style="whiteSpace=wrap;html=1;" parent="FTkk2QAchOgNW1-fvyxM-20" vertex="1">
           <mxGeometry y="379" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FTkk2QAchOgNW1-fvyxM-19" value="大疆智模" style="whiteSpace=wrap;html=1;" vertex="1" parent="FTkk2QAchOgNW1-fvyxM-20">
+        <mxCell id="FTkk2QAchOgNW1-fvyxM-19" value="大疆智模" style="whiteSpace=wrap;html=1;" parent="FTkk2QAchOgNW1-fvyxM-20" vertex="1">
           <mxGeometry x="150" y="369" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BruQ0y-a84a3w1h2zJn8-1" value="octree优化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BruQ0y-a84a3w1h2zJn8-2" value="worker加载" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
