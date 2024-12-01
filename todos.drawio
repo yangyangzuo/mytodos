@@ -80,10 +80,10 @@
           <mxGeometry x="920" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BruQ0y-a84a3w1h2zJn8-2" value="worker加载" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wnvIZN6RJ7bd76W9-lS3-1" value="动画例子和源码解析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
