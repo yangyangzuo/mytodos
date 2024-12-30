@@ -82,23 +82,32 @@
         <mxCell id="BruQ0y-a84a3w1h2zJn8-2" value="worker加载" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="800" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RiJT8p0uvQHbMqaEehZC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wnvIZN6RJ7bd76W9-lS3-1" target="RiJT8p0uvQHbMqaEehZC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wnvIZN6RJ7bd76W9-lS3-1" value="帧动画源码" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="929" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="usaB6_XguWqvA4osOO6L-1" value="blender" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1009" y="1770" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="31ff-eBmYqnDbKFNxVEB-1" value="1.视角切换&lt;div&gt;&amp;nbsp; 2.添加第三人称&amp;nbsp;&lt;/div&gt;&lt;div&gt;3.移动端适配&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="1690" width="230" height="220" as="geometry" />
+          <mxGeometry x="1765" y="1600" width="230" height="220" as="geometry" />
         </mxCell>
         <mxCell id="enSoUBT6XbqI8gxfZkcr-1" value="webrtc" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1730" y="1790" width="120" height="60" as="geometry" />
+          <mxGeometry x="2095" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJT8p0uvQHbMqaEehZC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-bn-pcaqlWfLTp6yWAj2-1" target="RiJT8p0uvQHbMqaEehZC-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-bn-pcaqlWfLTp6yWAj2-1" value="骨骼动画源码" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="1860" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kuL20Rbtm07XKERarPiN-1" value="https://www.bilibili.com/video/BV1Bt4y1E7qn?spm_id_from=333.788.videopod.episodes&amp;amp;vd_source=1841c12669c57f78a6d98099b78b8891&amp;amp;p=15&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="890" y="2030" width="800" height="40" as="geometry" />
+        <mxCell id="RiJT8p0uvQHbMqaEehZC-1" value="blender骨骼动画专题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RiJT8p0uvQHbMqaEehZC-3" value="threejs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
