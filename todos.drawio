@@ -115,6 +115,9 @@
         <mxCell id="PHgg-2QqFKSzkDAJTAhm-1" value="形态键动画" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PHgg-2QqFKSzkDAJTAhm-3" value="形态键属性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
