@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.11" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.12" pages="6">
   <diagram id="vWEDw9_LgnvMWuBVMpru" name="todos">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,8 +300,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="aJMyZLpS-x2sk-VEkuCF" name="当务之急">
-    <mxGraphModel dx="2390" dy="2412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="aJMyZLpS-x2sk-VEkuCF" name="目标">
+    <mxGraphModel dx="3585" dy="3034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,16 +321,31 @@
           <mxGeometry x="130" y="1180" width="940" height="680" as="geometry" />
         </mxCell>
         <mxCell id="wdkuwvTnyl6449Dy5TSS-1" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;webworker&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="-520" width="290" height="190" as="geometry" />
+          <mxGeometry x="160" y="-310" width="290" height="190" as="geometry" />
         </mxCell>
         <mxCell id="fwl7tPqZrNK9k1eY1UNj-2" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;three-tile&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="-520" width="250" height="170" as="geometry" />
+          <mxGeometry x="2300" y="-850" width="250" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="TeyWzUscI1gDI1mKDqoy-3" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;bender导出json结构的数据文件&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="-754" width="250" height="170" as="geometry" />
+        <mxCell id="TeyWzUscI1gDI1mKDqoy-3" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;1.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;bender导出json结构的数据文件&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-1130" width="250" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="TeyWzUscI1gDI1mKDqoy-4" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;封装threejs，解析对应数据文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="-764" width="250" height="170" as="geometry" />
+        <mxCell id="TeyWzUscI1gDI1mKDqoy-4" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;2.封装threejs，解析对应数据文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="520" y="-1130" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="eBxviwoYR1yQVR5uk5JM-1" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;3.blenderUI +Upbge&lt;br&gt;页面编写&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-1130" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="eBxviwoYR1yQVR5uk5JM-2" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;4.按照功能模块逐个实现&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="-1130" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="eBxviwoYR1yQVR5uk5JM-3" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;物理引擎使用bullet的web assembly版本&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="-880" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="eBxviwoYR1yQVR5uk5JM-4" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;5.插件&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="-1130" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="eBxviwoYR1yQVR5uk5JM-6" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;多语言,多主题切换支持&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-900" width="250" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
