@@ -458,6 +458,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-93" value="服务端返回给用户&lt;br&gt;下载生成的代码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d3kKmckOJxhZfl0q7-Kg-92">
+          <mxGeometry x="-0.0891" y="-11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-64" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;生成基于浏览器的代码&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;threejs,babylon....&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1500" y="-380" width="140" height="40" as="geometry" />
         </mxCell>
