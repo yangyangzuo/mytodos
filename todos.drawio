@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aJMyZLpS-x2sk-VEkuCF" name="目标">
-    <mxGraphModel dx="1610" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2236" dy="2412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -336,7 +336,7 @@
           <mxGeometry x="2300" y="-850" width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="TeyWzUscI1gDI1mKDqoy-4" value="&lt;font&gt;2.封装threejs，解析对应数据文件&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="520" y="-1130" width="250" height="100" as="geometry" />
+          <mxGeometry x="1116" y="180" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-1" value="&lt;font&gt;3.blenderUI +Upbge&lt;br&gt;页面编写&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="160" y="210" width="370" height="100" as="geometry" />
@@ -422,6 +422,14 @@
             <mxPoint x="1030" y="-237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-54" target="TeyWzUscI1gDI1mKDqoy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-88" value="点击预览调整后的最终效果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="d3kKmckOJxhZfl0q7-Kg-87">
+          <mxGeometry x="0.0867" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-54" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;根据配置文件加载并显示到网页端blender&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="-252" width="230" height="30" as="geometry" />
         </mxCell>
@@ -480,8 +488,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-81" value="&lt;font&gt;3.blenderUI +Upbge&lt;br&gt;页面编写&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="700" y="180" width="370" height="100" as="geometry" />
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-81" value="&lt;font&gt;参考blender游戏引擎: Upbge的界面编写页面&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="650" y="250" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;curved=1;exitX=0.465;exitY=-0.072;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-81" target="d3kKmckOJxhZfl0q7-Kg-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="737.84" y="198.8" as="sourcePoint" />
+            <mxPoint x="842.1600000000002" y="-69.99999999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="246" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
