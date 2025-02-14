@@ -472,14 +472,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-64" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;生成基于浏览器的代码&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;threejs,babylon....&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1668" y="-866" width="140" height="40" as="geometry" />
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-64" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;生成基于web端代码&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;webgl,&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: wrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;webgpu&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;threejs,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;babylon...&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="-880" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-66" value="生成基于unity的代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1668" y="-743" width="130" height="30" as="geometry" />
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-66" value="生成基于unity的工程文件或代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1638" y="-743" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-67" value="生成基于ue的代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1668" y="-646" width="120" height="30" as="geometry" />
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-67" value="生成基于ue的工程文件或代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1638" y="-646" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0505;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-63" target="d3kKmckOJxhZfl0q7-Kg-64">
           <mxGeometry relative="1" as="geometry">
