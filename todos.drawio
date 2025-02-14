@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aJMyZLpS-x2sk-VEkuCF" name="目标">
-    <mxGraphModel dx="2236" dy="2412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2367" dy="2485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,22 +333,22 @@
           <mxGeometry x="269" y="-850" width="290" height="190" as="geometry" />
         </mxCell>
         <mxCell id="fwl7tPqZrNK9k1eY1UNj-2" value="&lt;font&gt;three-tile&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2300" y="-850" width="250" height="170" as="geometry" />
+          <mxGeometry x="220" y="790" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TeyWzUscI1gDI1mKDqoy-4" value="&lt;font&gt;2.封装threejs，解析对应数据文件&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1116" y="180" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="eBxviwoYR1yQVR5uk5JM-1" value="&lt;font&gt;3.blenderUI +Upbge&lt;br&gt;页面编写&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="eBxviwoYR1yQVR5uk5JM-1" value="&lt;font&gt;2.blenderUI页面编写&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="160" y="210" width="370" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="eBxviwoYR1yQVR5uk5JM-2" value="&lt;font&gt;4.按照功能模块逐个实现&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1570" y="-1130" width="370" height="100" as="geometry" />
+        <mxCell id="eBxviwoYR1yQVR5uk5JM-2" value="&lt;font&gt;3.按照功能模块逐个实现&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="160" y="450" width="370" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-3" value="&lt;font&gt;物理引擎使用bullet的web assembly版本&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1650" y="-880" width="250" height="170" as="geometry" />
+          <mxGeometry x="230" y="550" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-4" value="&lt;font&gt;5.插件&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2220" y="-1130" width="370" height="110" as="geometry" />
+          <mxGeometry x="160" y="680" width="370" height="110" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-6" value="&lt;font&gt;多语言,多主题切换支持&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="310" width="250" height="50" as="geometry" />
@@ -357,7 +357,7 @@
           <mxGeometry x="220" y="360" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZBs1SbHn3vslNCswuS3T-1" value="接入大模型" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="-1120" width="300" height="100" as="geometry" />
+          <mxGeometry x="150" y="900" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-33" target="d3kKmckOJxhZfl0q7-Kg-34">
           <mxGeometry relative="1" as="geometry" />
@@ -475,7 +475,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-75" value="&lt;div&gt;&lt;font&gt;blender插件&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;导出json结构的配置文件&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;导出gltf的模型文件&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-75" value="&lt;div&gt;&lt;font&gt;1.blender插件&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;导出json结构的配置文件&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;导出gltf的模型文件&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="80" y="-584" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeColor=#006EAF;fillColor=#1ba1e2;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-75" target="d3kKmckOJxhZfl0q7-Kg-42">
@@ -488,7 +488,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-81" value="&lt;font&gt;参考blender游戏引擎: Upbge的界面编写页面&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-81" value="&lt;font&gt;4.参考blender游戏引擎Upbge的界面&lt;/font&gt;&lt;div&gt;&lt;font&gt;编写页面&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="650" y="250" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;curved=1;exitX=0.465;exitY=-0.072;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-81" target="d3kKmckOJxhZfl0q7-Kg-56">
@@ -499,6 +499,9 @@
               <mxPoint x="820" y="246" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-89" value="自动生化图片和模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="980" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
