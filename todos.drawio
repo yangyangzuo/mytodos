@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aJMyZLpS-x2sk-VEkuCF" name="目标">
-    <mxGraphModel dx="2367" dy="2485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2874" dy="2768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -329,8 +329,8 @@
         <mxCell id="Wc-waLaxD-7jYq18_y0E-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;3d软件编辑器&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;1.在线导出html和源码&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;2.在线编辑&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;3.和blender文件互相导入&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;4.服务端渲染服务，支持上传blender文件,文件安全??&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;文件大小&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;渲染时长&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="140" y="2810" width="940" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="wdkuwvTnyl6449Dy5TSS-1" value="&lt;font&gt;webworker&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="269" y="-850" width="290" height="190" as="geometry" />
+        <mxCell id="wdkuwvTnyl6449Dy5TSS-1" value="&lt;font&gt;webworker&lt;br&gt;indexdb&lt;/font&gt;&lt;div&gt;对于大数据的响应式处理&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="990" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fwl7tPqZrNK9k1eY1UNj-2" value="&lt;font&gt;three-tile&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="790" width="250" height="60" as="geometry" />
@@ -502,6 +502,9 @@
         </mxCell>
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-89" value="自动生化图片和模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="265" y="980" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-90" value="性能优化" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="910" width="390" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
