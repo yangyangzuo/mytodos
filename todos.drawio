@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aJMyZLpS-x2sk-VEkuCF" name="目标">
-    <mxGraphModel dx="2874" dy="2768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3353" dy="3034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,22 +327,22 @@
           <mxGeometry x="2300" y="-850" width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="TeyWzUscI1gDI1mKDqoy-3" value="&lt;font&gt;1.&lt;/font&gt;&lt;div&gt;&lt;font&gt;bender导出json结构的数据文件&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="60" y="-1130" width="250" height="170" as="geometry" />
+          <mxGeometry x="60" y="-1130" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TeyWzUscI1gDI1mKDqoy-4" value="&lt;font&gt;2.封装threejs，解析对应数据文件&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="520" y="-1130" width="250" height="170" as="geometry" />
+          <mxGeometry x="520" y="-1130" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-1" value="&lt;font&gt;3.blenderUI +Upbge&lt;br&gt;页面编写&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="940" y="-1130" width="370" height="170" as="geometry" />
+          <mxGeometry x="940" y="-1130" width="370" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-2" value="&lt;font&gt;4.按照功能模块逐个实现&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1570" y="-1130" width="370" height="170" as="geometry" />
+          <mxGeometry x="1570" y="-1130" width="370" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-3" value="&lt;font&gt;物理引擎使用bullet的web assembly版本&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1650" y="-880" width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-4" value="&lt;font&gt;5.插件&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2220" y="-1130" width="370" height="170" as="geometry" />
+          <mxGeometry x="2220" y="-1130" width="370" height="110" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-6" value="&lt;font&gt;多语言,多主题切换支持&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="-900" width="250" height="170" as="geometry" />
@@ -351,7 +351,7 @@
           <mxGeometry x="1000" y="-660" width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ZBs1SbHn3vslNCswuS3T-1" value="接入大模型" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="-1120" width="300" height="160" as="geometry" />
+          <mxGeometry x="2800" y="-1120" width="300" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
