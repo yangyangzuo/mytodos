@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aJMyZLpS-x2sk-VEkuCF" name="目标">
-    <mxGraphModel dx="2874" dy="2768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5749" dy="4366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -505,6 +505,9 @@
         </mxCell>
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-90" value="性能优化" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1140" y="910" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-91" value="制作案例(自媒体推广)" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1770" width="3070" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
