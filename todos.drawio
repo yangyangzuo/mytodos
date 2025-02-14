@@ -301,14 +301,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aJMyZLpS-x2sk-VEkuCF" name="目标">
-    <mxGraphModel dx="1150" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="2288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-74" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-74" value="" style="group;strokeColor=#FF0000;dashed=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="625" y="-347" width="320" height="327" as="geometry" />
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-72" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="d3kKmckOJxhZfl0q7-Kg-74">
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-72" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="d3kKmckOJxhZfl0q7-Kg-74">
           <mxGeometry x="10" y="30" width="300" height="297" as="geometry" />
         </mxCell>
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-73" value="展示的内容是在内存中,即使保存网页,也不会保存到本地" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="d3kKmckOJxhZfl0q7-Kg-74">
@@ -442,8 +442,8 @@
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-63" target="d3kKmckOJxhZfl0q7-Kg-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-63" value="服务端根据&lt;div&gt;配置生成对应代码&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="-262" width="120" height="40" as="geometry" />
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-63" value="服务端根据&lt;div&gt;blender配置,&lt;/div&gt;&lt;div&gt;模型文件,&lt;/div&gt;&lt;div&gt;游戏引擎配置&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-277" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-64" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;生成基于浏览器的代码&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;threejs,babylon....&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1500" y="-380" width="140" height="40" as="geometry" />
