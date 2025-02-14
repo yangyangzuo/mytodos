@@ -335,7 +335,7 @@
         <mxCell id="eBxviwoYR1yQVR5uk5JM-2" value="&lt;font&gt;3.按照功能模块逐个实现&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="328" y="-36" width="370" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="eBxviwoYR1yQVR5uk5JM-3" value="&lt;font&gt;物理引擎使用bullet的web assembly版本&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eBxviwoYR1yQVR5uk5JM-3" value="&lt;font&gt;物理引擎使用bullet的web assembly版本&lt;/font&gt;&lt;div&gt;&lt;font&gt;可能需要分析blender的源码&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="398" y="64" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-4" value="&lt;font&gt;5.插件&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
