@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aJMyZLpS-x2sk-VEkuCF" name="目标">
-    <mxGraphModel dx="2012" dy="2288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1610" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,19 +315,19 @@
           <mxGeometry width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wc-waLaxD-7jYq18_y0E-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;数字校园:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;1.模型模糊&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;无人机购买和使用&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;无人机建模:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;其他3d重建软件是否可以,逐个测试&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;需要买大疆软件?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;小区3d化&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;2.数据加载性能优化&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;2.1导出obj文件,通过https://ion.cesium.com/assets 转换为b3dm格式?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;测试中.............................&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;2.2通过大疆智图转换b3dm,确定是否是图片模糊问题,还是智图软件的问题&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;2.3性能优化&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;调整相机视椎体大小+雾化?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;&lt;font style=&quot;color: rgb(255, 7, 7);&quot;&gt;2.4分析b3dm库的加载源码&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;font style=&quot;color: rgb(255, 7, 7);&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;进行中&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;lod模型能否解决问题??&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;3.完善交互&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;添加人物模型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;指示牌&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="60" y="360" width="940" height="680" as="geometry" />
+          <mxGeometry x="70" y="1990" width="940" height="680" as="geometry" />
         </mxCell>
         <mxCell id="Wc-waLaxD-7jYq18_y0E-2" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;1.使用测试软件，测试免费的3维重建&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="560" width="940" height="150" as="geometry" />
+          <mxGeometry x="1110" y="2190" width="940" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Wc-waLaxD-7jYq18_y0E-3" value="&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;数字人:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;3d数字人:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;面部捕捉?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;驱动模型?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;语音互动检测:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;https://mp.weixin.qq.com/s/fsLH3oSJKBs26bEd4WOExA&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;2d数字人:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;(表情)口型匹配&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;音色定制&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;动作定制&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;开源ai驱动:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;????&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2180" y="310" width="940" height="680" as="geometry" />
+          <mxGeometry x="2190" y="1940" width="940" height="680" as="geometry" />
         </mxCell>
         <mxCell id="Wc-waLaxD-7jYq18_y0E-4" value="&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;视频分享:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;1.分享知识干货,承接项目&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;2.开店&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;3.用户充电&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;4.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2100" y="1190" width="940" height="680" as="geometry" />
+          <mxGeometry x="2110" y="2820" width="940" height="680" as="geometry" />
         </mxCell>
         <mxCell id="Wc-waLaxD-7jYq18_y0E-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;3d软件编辑器&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;1.在线导出html和源码&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;2.在线编辑&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;3.和blender文件互相导入&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;4.服务端渲染服务，支持上传blender文件,文件安全??&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px; white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&#x9;&lt;/span&gt;文件大小&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;渲染时长&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1180" width="940" height="680" as="geometry" />
+          <mxGeometry x="140" y="2810" width="940" height="680" as="geometry" />
         </mxCell>
         <mxCell id="wdkuwvTnyl6449Dy5TSS-1" value="&lt;font&gt;webworker&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="269" y="-850" width="290" height="190" as="geometry" />
@@ -335,14 +335,11 @@
         <mxCell id="fwl7tPqZrNK9k1eY1UNj-2" value="&lt;font&gt;three-tile&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2300" y="-850" width="250" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="TeyWzUscI1gDI1mKDqoy-3" value="&lt;font&gt;1.&lt;/font&gt;&lt;div&gt;&lt;font&gt;bender导出json结构的数据文件&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="60" y="-1130" width="220" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="TeyWzUscI1gDI1mKDqoy-4" value="&lt;font&gt;2.封装threejs，解析对应数据文件&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="520" y="-1130" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-1" value="&lt;font&gt;3.blenderUI +Upbge&lt;br&gt;页面编写&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="940" y="-1130" width="370" height="100" as="geometry" />
+          <mxGeometry x="160" y="210" width="370" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-2" value="&lt;font&gt;4.按照功能模块逐个实现&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1570" y="-1130" width="370" height="100" as="geometry" />
@@ -354,27 +351,27 @@
           <mxGeometry x="2220" y="-1130" width="370" height="110" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-6" value="&lt;font&gt;多语言,多主题切换支持&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="-950" width="250" height="170" as="geometry" />
+          <mxGeometry x="220" y="310" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-7" value="&lt;font&gt;vue3官网文档过一遍&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="-720" width="250" height="170" as="geometry" />
+          <mxGeometry x="220" y="360" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZBs1SbHn3vslNCswuS3T-1" value="接入大模型" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2800" y="-1120" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-33" target="d3kKmckOJxhZfl0q7-Kg-34">
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-33" target="d3kKmckOJxhZfl0q7-Kg-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-33" value="微信扫码登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="-252" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-34" target="d3kKmckOJxhZfl0q7-Kg-36">
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0505;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-34" target="d3kKmckOJxhZfl0q7-Kg-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-34" value="绑定手机号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="-252" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-36">
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0505;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="-237.00000000000023" as="targetPoint" />
           </mxGeometry>
@@ -392,7 +389,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-39">
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0505;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="-237.00000000000023" as="targetPoint" />
           </mxGeometry>
@@ -420,7 +417,7 @@
             <mxPoint x="785" y="-110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-54">
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0505;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1030" y="-237" as="targetPoint" />
           </mxGeometry>
@@ -431,7 +428,7 @@
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-56" value="通过游戏引擎添加和调整功能(例如:交互)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="-100" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-59">
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0505;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-59">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1180" y="-237" as="targetPoint" />
           </mxGeometry>
@@ -439,7 +436,7 @@
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-59" value="点击请求生化代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1030" y="-252" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-63" target="d3kKmckOJxhZfl0q7-Kg-66">
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0505;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-63" target="d3kKmckOJxhZfl0q7-Kg-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-63" value="服务端根据&lt;div&gt;blender配置,&lt;/div&gt;&lt;div&gt;模型文件,&lt;/div&gt;&lt;div&gt;游戏引擎配置&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -454,7 +451,7 @@
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-67" value="生成基于ue的代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1500" y="-160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-63" target="d3kKmckOJxhZfl0q7-Kg-64">
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0505;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-63" target="d3kKmckOJxhZfl0q7-Kg-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1380" y="-242" />
@@ -462,13 +459,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d3kKmckOJxhZfl0q7-Kg-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-63" target="d3kKmckOJxhZfl0q7-Kg-67">
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0505;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-63" target="d3kKmckOJxhZfl0q7-Kg-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1380" y="-242" />
               <mxPoint x="1380" y="-143" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-75" value="&lt;div&gt;&lt;font&gt;blender插件&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;导出json结构的配置文件&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;导出gltf的模型文件&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-584" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeColor=#006EAF;fillColor=#1ba1e2;" edge="1" parent="1" source="d3kKmckOJxhZfl0q7-Kg-75" target="d3kKmckOJxhZfl0q7-Kg-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.125;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="eBxviwoYR1yQVR5uk5JM-1" target="d3kKmckOJxhZfl0q7-Kg-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="-221" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3kKmckOJxhZfl0q7-Kg-81" value="&lt;font&gt;3.blenderUI +Upbge&lt;br&gt;页面编写&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="700" y="180" width="370" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
