@@ -347,6 +347,9 @@
         <mxCell id="eBxviwoYR1yQVR5uk5JM-6" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;多语言,多主题切换支持&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="-900" width="250" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="eBxviwoYR1yQVR5uk5JM-7" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;vue3官网文档过一遍&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-660" width="250" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
