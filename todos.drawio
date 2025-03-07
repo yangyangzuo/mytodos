@@ -382,22 +382,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XUHPIvYPxtX43MUzcUfK-9" value="qgis软件使用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1850" y="-1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1970" y="-1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XUHPIvYPxtX43MUzcUfK-11" value="qgis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1850" y="-1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="1970" y="-1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QF0eKW8hfXhz2bjkkEv7-1" value="opengl" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="-1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QF0eKW8hfXhz2bjkkEv7-2" value="blender建模" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="-1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1460" y="-900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QF0eKW8hfXhz2bjkkEv7-3" value="ue4" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="-1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1270" y="-900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QF0eKW8hfXhz2bjkkEv7-4" value="ps" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="-1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1740" y="-1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QF0eKW8hfXhz2bjkkEv7-6" value="webgpu" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="-1120" width="120" height="60" as="geometry" />
@@ -415,7 +415,7 @@
           <mxGeometry x="910" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="43hTWujUJNdbhN71EOKc-1" value="arcgis" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1850" y="-900" width="120" height="60" as="geometry" />
+          <mxGeometry x="1970" y="-900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sg9lwqoJGPFSilAlO2yi-2" value="数学" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="-1120" width="120" height="60" as="geometry" />
@@ -430,43 +430,58 @@
           <mxGeometry x="60" y="-720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sg9lwqoJGPFSilAlO2yi-6" value="三维重建" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="-1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="2540" y="-1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sg9lwqoJGPFSilAlO2yi-7" value="context cpatuer" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="-1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="2540" y="-1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sg9lwqoJGPFSilAlO2yi-8" value="reality capture" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="-920" width="120" height="60" as="geometry" />
+          <mxGeometry x="2540" y="-920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sg9lwqoJGPFSilAlO2yi-9" value="meshroom" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="-810" width="120" height="60" as="geometry" />
+          <mxGeometry x="2540" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C56aYHbkjovNg2UDgPtt-1" value="大疆制图" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2520" y="-700" width="120" height="60" as="geometry" />
+          <mxGeometry x="2640" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C56aYHbkjovNg2UDgPtt-2" value="大疆智模" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2350" y="-700" width="120" height="60" as="geometry" />
+          <mxGeometry x="2470" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iqEsYzO0mz8VZ4xsTccq-1" value="blender源码分析" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="-1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="1460" y="-820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iqEsYzO0mz8VZ4xsTccq-2" value="vue3" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2068" y="-1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="2188" y="-1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iqEsYzO0mz8VZ4xsTccq-3" value="vite" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2068" y="-1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="2188" y="-1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iqEsYzO0mz8VZ4xsTccq-4" value="python" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2950" y="-1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="3070" y="-1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iqEsYzO0mz8VZ4xsTccq-5" value="fast api" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2950" y="-1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="3070" y="-1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iqEsYzO0mz8VZ4xsTccq-6" value="大模型的部署 和 接口调用" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2950" y="-950" width="120" height="60" as="geometry" />
+          <mxGeometry x="3070" y="-950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yYwE1kPFD04IdcBnoDxG-1" value="element-plus" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2068" y="-970" width="120" height="60" as="geometry" />
+        <mxCell id="yYwE1kPFD04IdcBnoDxG-1" value="element-plus" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2188" y="-970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="giJ6-YF2ZNf0w7knYHaq-1" value="国际化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2188" y="-880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="giJ6-YF2ZNf0w7knYHaq-2" value="主题切换" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2188" y="-780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="giJ6-YF2ZNf0w7knYHaq-3" value="c++" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="-1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="giJ6-YF2ZNf0w7knYHaq-4" value="blender插件开发" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="giJ6-YF2ZNf0w7knYHaq-5" value="python" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="-1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
