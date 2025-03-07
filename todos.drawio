@@ -225,7 +225,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vWEDw9_LgnvMWuBVMpru" name="todos">
-    <mxGraphModel dx="1977" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2839" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -366,12 +366,6 @@
         </mxCell>
         <mxCell id="iUoTuVGcWsuC59j0DC2e-1" value="设计模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-304" y="269" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tf3ol2CdX5sDcgdmVbLo-1" value="主题切换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-302" y="311" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tf3ol2CdX5sDcgdmVbLo-2" value="国际化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-297" y="351" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
