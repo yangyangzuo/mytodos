@@ -215,13 +215,13 @@
         <mxCell id="d3kKmckOJxhZfl0q7-Kg-94" value="保证这个页面的安全性&lt;br&gt;不能让用户直接下载html可用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1319" y="-206" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z5uF2EqBQmK678nszpNq-1" value="水印:&amp;nbsp;&amp;nbsp;https://mp.weixin.qq.com/s/GtAnkRRNeIVKlLkuRF0RQA&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="Z5uF2EqBQmK678nszpNq-1" value="水印:&amp;nbsp;&amp;nbsp;https://mp.weixin.qq.com/s/GtAnkRRNeIVKlLkuRF0RQA&lt;div&gt;反调试:&amp;nbsp;https://www.bilibili.com/video/BV18GR5YYE7h/&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1220" y="-157" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S3sVt-SSGWfQROZdN7-Q-1" value="1.按照必须组件顺序导出&lt;div&gt;2.参考babylonjs, blend4web, verge3d导出,&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="-1110" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oRePj1CIX9cc-MzPht6I-1" value="&lt;font&gt;threejs官网编辑器有参考价值&lt;br&gt;例如: 撤销 和 重做&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oRePj1CIX9cc-MzPht6I-1" value="&lt;font&gt;threejs官网编辑器有参考价值&lt;br&gt;例如: 撤销 和 重做&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="388" y="-76" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
