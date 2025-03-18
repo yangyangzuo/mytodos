@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="6">
   <diagram id="aJMyZLpS-x2sk-VEkuCF" name="目标">
-    <mxGraphModel dx="1150" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2367" dy="2485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vWEDw9_LgnvMWuBVMpru" name="todos">
-    <mxGraphModel dx="1785" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1977" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -347,10 +347,10 @@
           <mxGeometry x="-760" y="180" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wtvGVy-qr5jEupYJrwv4-2" value="5.集成three-tile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-760" y="380" width="100" height="30" as="geometry" />
+          <mxGeometry x="-755" y="360" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wtvGVy-qr5jEupYJrwv4-4" value="6.大疆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-760" y="555" width="60" height="30" as="geometry" />
+        <mxCell id="wtvGVy-qr5jEupYJrwv4-4" value="6.大疆---&amp;gt;obj" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-760" y="520" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cZ8c1di3nxEinJBlmBbr-1" value="3.3dtile格式分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-765" y="270" width="110" height="30" as="geometry" />
@@ -369,6 +369,12 @@
         </mxCell>
         <mxCell id="iUoTuVGcWsuC59j0DC2e-1" value="设计模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-224" y="262.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AIIOgHU0OXCmZowHytdz-1" value="obj转b3dm，多模型合并" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-722" y="418" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AIIOgHU0OXCmZowHytdz-2" value="obj转换为b3dm后，能实现智能园区效果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="450" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
