@@ -228,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vWEDw9_LgnvMWuBVMpru" name="todos">
-    <mxGraphModel dx="1977" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1785" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -370,11 +370,14 @@
         <mxCell id="iUoTuVGcWsuC59j0DC2e-1" value="设计模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-224" y="262.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AIIOgHU0OXCmZowHytdz-1" value="obj转b3dm，多模型合并" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-722" y="418" width="150" height="30" as="geometry" />
+        <mxCell id="AIIOgHU0OXCmZowHytdz-1" value="obj转b3dm，多模型合并" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="420" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AIIOgHU0OXCmZowHytdz-2" value="obj转换为b3dm后，能实现智能园区效果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="450" width="240" height="30" as="geometry" />
+        <mxCell id="AIIOgHU0OXCmZowHytdz-2" value="obj转换为b3dm后，能实现智能园区效果(纹理切换)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="447" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k6vuwO1zd59j4TwaS4IW-1" value="obj转换为b3dm后，动画保持" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="477" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
