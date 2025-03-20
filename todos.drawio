@@ -371,13 +371,13 @@
           <mxGeometry x="56" y="342.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AIIOgHU0OXCmZowHytdz-1" value="obj转b3dm，多模型合并" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="500" width="250" height="40" as="geometry" />
+          <mxGeometry x="-160" y="460" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AIIOgHU0OXCmZowHytdz-2" value="obj转换为b3dm后，能实现智能园区效果(纹理切换)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-415" y="527" width="500" height="40" as="geometry" />
+          <mxGeometry x="-170" y="517" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k6vuwO1zd59j4TwaS4IW-1" value="obj转换为b3dm后，动画保持" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="557" width="290" height="40" as="geometry" />
+          <mxGeometry x="-150" y="585" width="290" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
