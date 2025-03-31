@@ -228,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vWEDw9_LgnvMWuBVMpru" name="todos">
-    <mxGraphModel dx="2264" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2839" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,40 +344,46 @@
           <mxGeometry x="1010" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wtvGVy-qr5jEupYJrwv4-1" value="1.根据json配置文件封装threejs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="260" width="310" height="40" as="geometry" />
+          <mxGeometry x="-680" y="30" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wtvGVy-qr5jEupYJrwv4-2" value="5.集成three-tile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-485" y="440" width="160" height="40" as="geometry" />
+          <mxGeometry x="-640" y="950" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wtvGVy-qr5jEupYJrwv4-4" value="6.大疆---&amp;gt;obj" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-485" y="600" width="140" height="40" as="geometry" />
+          <mxGeometry x="-640" y="1030" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZ8c1di3nxEinJBlmBbr-1" value="3.3dtile格式分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="350" width="180" height="40" as="geometry" />
+          <mxGeometry x="-670" y="240" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZ8c1di3nxEinJBlmBbr-2" value="4.3d-tiles-renderer源码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="390" width="240" height="40" as="geometry" />
+          <mxGeometry x="-418" y="586.25" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uXykJEPv92WByEsp_HR5-1" value="vue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="82" y="267.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="502" y="95" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uXykJEPv92WByEsp_HR5-2" value="element-ui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="50" y="302.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="470" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Hl36xuPeZueHoyYoeXH-1" value="2.官网案例使用自己封装的库,实现" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-530" y="295" width="340" height="40" as="geometry" />
+          <mxGeometry x="-690" y="65" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iUoTuVGcWsuC59j0DC2e-1" value="设计模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="56" y="342.5" width="110" height="40" as="geometry" />
+          <mxGeometry x="476" y="170" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AIIOgHU0OXCmZowHytdz-1" value="obj转b3dm，多模型合并" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="460" width="250" height="40" as="geometry" />
+          <mxGeometry x="-423" y="293.75" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AIIOgHU0OXCmZowHytdz-2" value="obj转换为b3dm后，能实现智能园区效果(纹理切换)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="517" width="500" height="40" as="geometry" />
+          <mxGeometry x="-400" y="373.25" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k6vuwO1zd59j4TwaS4IW-1" value="obj转换为b3dm后，动画保持" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="585" width="290" height="40" as="geometry" />
+          <mxGeometry x="-413" y="418.75" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk-WwWlkNp0ByQCyko3N-1" value="对象转b3dm数据工具" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="356.25" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk-WwWlkNp0ByQCyko3N-2" value="b3dm数据加载" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="586.25" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
