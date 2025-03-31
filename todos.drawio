@@ -356,7 +356,7 @@
           <mxGeometry x="-670" y="240" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZ8c1di3nxEinJBlmBbr-2" value="4.3d-tiles-renderer源码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-418" y="586.25" width="240" height="40" as="geometry" />
+          <mxGeometry x="-413" y="540" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uXykJEPv92WByEsp_HR5-1" value="vue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="502" y="95" width="60" height="40" as="geometry" />
@@ -374,7 +374,7 @@
           <mxGeometry x="-423" y="293.75" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AIIOgHU0OXCmZowHytdz-2" value="obj转换为b3dm后，能实现智能园区效果(纹理切换)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="373.25" width="500" height="40" as="geometry" />
+          <mxGeometry x="-418" y="350" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k6vuwO1zd59j4TwaS4IW-1" value="obj转换为b3dm后，动画保持" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="-413" y="418.75" width="290" height="40" as="geometry" />
@@ -383,7 +383,7 @@
           <mxGeometry x="-670" y="356.25" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lk-WwWlkNp0ByQCyko3N-2" value="b3dm数据加载" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="586.25" width="160" height="40" as="geometry" />
+          <mxGeometry x="-640" y="545" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
