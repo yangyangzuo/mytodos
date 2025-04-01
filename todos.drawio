@@ -610,7 +610,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Iz1WDp1NB3DPXEKN7mkg" name="b3dm">
-    <mxGraphModel dx="2737" dy="-99" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1973" dy="-527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -765,8 +765,8 @@
             <mxPoint x="1670" y="1445.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ijb8rzj-k_Gh_c36trp4-53" value="根据天面的batchTable&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;表示json的字符串长度可知&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;这里一共1504个字符&lt;/span&gt;&lt;/div&gt;因为是json字符,所以每个字符占用1个字节&lt;br&gt;不存在小端问题&lt;div&gt;这里读取的值为:&lt;br&gt;7b 22 68 65 ..... 7d 7d 7d 20&lt;br&gt;转为对应的ascii码为:&lt;br&gt;{ &quot; h e&amp;nbsp; .... } } }&amp;nbsp;&lt;font style=&quot;color: rgb(255, 0, 8);&quot;&gt;0x20&lt;/font&gt;&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;div&gt;1共1504个字符&lt;br&gt;最后1个0x20表示的是空格&lt;br&gt;字符填充说明:&lt;br&gt;https://github.com/CesiumGS/3d-tiles/blob/1.0/&lt;/div&gt;&lt;div&gt;specification/TileFormats/FeatureTable/README.md#padding&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="5100" width="350" height="200" as="geometry" />
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-53" value="根据天面的batchTable&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;表示json的字符串长度可知&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;这里一共1504个字符&lt;/span&gt;&lt;/div&gt;因为是json字符,所以每个字符占用1个字节&lt;br&gt;不存在小端问题&lt;div&gt;这里读取的值为:&lt;br&gt;7b 22 68 65 ..... 7d 7d 7d 20&lt;br&gt;转为对应的ascii码为:&lt;br&gt;{ &quot; h e&amp;nbsp; .... } } }&amp;nbsp;&lt;font style=&quot;color: rgb(255, 0, 8);&quot;&gt;0x20&lt;/font&gt;&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;div&gt;1共1504个字符&lt;br&gt;最后1个0x20表示的是空格&lt;br&gt;字符填充说明:https://github.com/CesiumGS/3d-tiles/blob/1.0/&lt;/div&gt;&lt;div&gt;specification/TileFormats/BatchTable/README.md#padding&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="5105" width="350" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Ijb8rzj-k_Gh_c36trp4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ijb8rzj-k_Gh_c36trp4-54" target="Ijb8rzj-k_Gh_c36trp4-23">
           <mxGeometry relative="1" as="geometry" />
