@@ -610,7 +610,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Iz1WDp1NB3DPXEKN7mkg" name="b3dm">
-    <mxGraphModel dx="1883" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="-304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -748,14 +748,14 @@
         <mxCell id="Ijb8rzj-k_Gh_c36trp4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ijb8rzj-k_Gh_c36trp4-49" target="Ijb8rzj-k_Gh_c36trp4-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ijb8rzj-k_Gh_c36trp4-49" value="&lt;div&gt;按照小端存储后读取的值为:&lt;/div&gt;&lt;div&gt;e0 05 00 00&lt;/div&gt;&lt;div&gt;即:0x00 00 05 e0&lt;/div&gt;&lt;div&gt;即:1504&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="3190" width="170" height="70" as="geometry" />
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-49" value="batchTable 通过json描述相关信息&lt;div&gt;这里表示json的字符串长度&lt;/div&gt;&lt;div&gt;按照小端存储后读取的值为:&lt;/div&gt;&lt;div&gt;e0 05 00 00&lt;/div&gt;&lt;div&gt;即:0x00 00 05 e0&lt;/div&gt;&lt;div&gt;即:1504&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="3190" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ijb8rzj-k_Gh_c36trp4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ijb8rzj-k_Gh_c36trp4-51" target="Ijb8rzj-k_Gh_c36trp4-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ijb8rzj-k_Gh_c36trp4-51" value="&lt;div&gt;按照小端存储后读取的值为:&lt;/div&gt;&lt;div&gt;00 00 00 00&lt;/div&gt;&lt;div&gt;即:0x00000000&lt;/div&gt;&lt;div&gt;即:0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="3507" width="170" height="70" as="geometry" />
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-51" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;batchTable 二进制数据的长度&lt;br&gt;&lt;/span&gt;按照小端存储后读取的值为:&lt;/div&gt;&lt;div&gt;00 00 00 00&lt;/div&gt;&lt;div&gt;即:0x00000000&lt;/div&gt;&lt;div&gt;即:0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="3507" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ijb8rzj-k_Gh_c36trp4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ijb8rzj-k_Gh_c36trp4-52" target="Ijb8rzj-k_Gh_c36trp4-21">
           <mxGeometry relative="1" as="geometry" />
