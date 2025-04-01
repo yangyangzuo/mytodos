@@ -699,13 +699,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ijb8rzj-k_Gh_c36trp4-25" value="存储4个asscii的字符&lt;div&gt;固定值为b3dm&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-675" y="1510" width="130" height="40" as="geometry" />
+          <mxGeometry x="-675" y="1480" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ijb8rzj-k_Gh_c36trp4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ijb8rzj-k_Gh_c36trp4-27" target="Ijb8rzj-k_Gh_c36trp4-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ijb8rzj-k_Gh_c36trp4-27" value="存储3dtiles的版本&lt;br&gt;默认为1&lt;br&gt;最新版为1.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="1580" width="120" height="60" as="geometry" />
+          <mxGeometry x="-520" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-34" value="这个b3dm文件的长度&lt;br&gt;包含header和body" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-388" y="1600" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ijb8rzj-k_Gh_c36trp4-34" target="Ijb8rzj-k_Gh_c36trp4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ijb8rzj-k_Gh_c36trp4-36" target="Ijb8rzj-k_Gh_c36trp4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-36" value="featureTable 通过json描述相关信息&lt;div&gt;这里表示json的字符串长度&lt;/div&gt;&lt;div&gt;例如:&lt;/div&gt;&lt;div&gt;{&quot;BATCH_LENGTH&quot;:30}&lt;font style=&quot;color: rgb(255, 5, 5);&quot;&gt;0x20&lt;/font&gt;&lt;/div&gt;&lt;div&gt;注意上面1共20个字符&lt;br&gt;最后1个0x20表示的是空格&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-235" y="1640" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
