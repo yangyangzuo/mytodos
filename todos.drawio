@@ -610,11 +610,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Iz1WDp1NB3DPXEKN7mkg" name="b3dm">
-    <mxGraphModel dx="2499" dy="-232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2210" dy="-394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ijb8rzj-k_Gh_c36trp4-1" value="magic&lt;br&gt;unsigned char(4)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-1" value="magic&lt;br&gt;&lt;font style=&quot;color: rgb(0, 255, 76);&quot;&gt;unsigned char(4)&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ijb8rzj-k_Gh_c36trp4-2" value="b3dm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -631,22 +631,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ijb8rzj-k_Gh_c36trp4-5" value="version&lt;br&gt;unit32" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-5" value="version&lt;br&gt;&lt;font style=&quot;color: rgb(0, 255, 76);&quot;&gt;unit32&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ijb8rzj-k_Gh_c36trp4-6" value="byteLength&lt;br&gt;unit32" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-6" value="byteLength&lt;br&gt;&lt;font style=&quot;color: rgb(0, 255, 76);&quot;&gt;unit32&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-378" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ijb8rzj-k_Gh_c36trp4-7" value="featureTableJSONByteLength&lt;br&gt;unit32" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-7" value="featureTableJSONByteLength&lt;br&gt;&lt;font style=&quot;color: rgb(0, 255, 76);&quot;&gt;unit32&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="1370" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ijb8rzj-k_Gh_c36trp4-8" value="featureTableBinaryByteLength&lt;br&gt;unit32" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-8" value="featureTableBinaryByteLength&lt;br&gt;&lt;font style=&quot;color: rgb(0, 255, 76);&quot;&gt;unit32&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1370" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ijb8rzj-k_Gh_c36trp4-9" value="batchTableJSONByteLength&lt;br&gt;unit32" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-9" value="batchTableJSONByteLength&lt;br&gt;&lt;font style=&quot;color: rgb(0, 255, 76);&quot;&gt;unit32&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1370" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ijb8rzj-k_Gh_c36trp4-10" value="batchTableBinaryByteLength&lt;br&gt;unit32" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-10" value="batchTableBinaryByteLength&lt;br&gt;&lt;font style=&quot;color: rgb(0, 255, 76);&quot;&gt;unit32&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="1370" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ijb8rzj-k_Gh_c36trp4-12" value="4 byte" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -692,6 +692,12 @@
         </mxCell>
         <mxCell id="Ijb8rzj-k_Gh_c36trp4-24" value="可选" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="915" y="1330" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ijb8rzj-k_Gh_c36trp4-25" target="Ijb8rzj-k_Gh_c36trp4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-25" value="存储4个asscii的字符&lt;div&gt;固定值为b3dm&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-675" y="1560" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
