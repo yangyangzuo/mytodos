@@ -693,11 +693,19 @@
         <mxCell id="Ijb8rzj-k_Gh_c36trp4-24" value="可选" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="915" y="1330" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ijb8rzj-k_Gh_c36trp4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ijb8rzj-k_Gh_c36trp4-25" target="Ijb8rzj-k_Gh_c36trp4-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ijb8rzj-k_Gh_c36trp4-25" target="Ijb8rzj-k_Gh_c36trp4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-630" y="1450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ijb8rzj-k_Gh_c36trp4-25" value="存储4个asscii的字符&lt;div&gt;固定值为b3dm&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-675" y="1560" width="130" height="40" as="geometry" />
+          <mxGeometry x="-675" y="1510" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ijb8rzj-k_Gh_c36trp4-27" target="Ijb8rzj-k_Gh_c36trp4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ijb8rzj-k_Gh_c36trp4-27" value="存储3dtiles的版本&lt;br&gt;默认为1&lt;br&gt;最新版为1.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
