@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.6" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.9" pages="7">
   <diagram id="aJMyZLpS-x2sk-VEkuCF" name="目标">
-    <mxGraphModel dx="3647" dy="3213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2006" dy="2293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="eBxviwoYR1yQVR5uk5JM-4" value="&lt;font&gt;5.插件&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="318" y="260" width="370" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="eBxviwoYR1yQVR5uk5JM-6" value="&lt;font&gt;多语言,多主题切换支持&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eBxviwoYR1yQVR5uk5JM-6" value="&lt;font&gt;主题，国际化，快捷键切换支持&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="388" y="-176" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eBxviwoYR1yQVR5uk5JM-7" value="&lt;font&gt;vue3官网文档过一遍&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -224,19 +224,19 @@
         <mxCell id="oRePj1CIX9cc-MzPht6I-1" value="&lt;font&gt;threejs官网编辑器有参考价值&lt;br&gt;例如: 撤销 和 重做&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="388" y="-76" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eRc_ZCSKqzwGZFJ4VDl1-1" value="&lt;div&gt;盈利模式&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="eRc_ZCSKqzwGZFJ4VDl1-1" value="&lt;div&gt;盈利模式&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1698" y="-10" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eRc_ZCSKqzwGZFJ4VDl1-3" value="1.提供类似blender插件的功能,可让用户购买" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="eRc_ZCSKqzwGZFJ4VDl1-3" value="1.提供类似blender插件的功能,可让用户购买" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1688" y="30" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eRc_ZCSKqzwGZFJ4VDl1-4" value="2.市场交易平台,提供blender工程,模型买卖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="eRc_ZCSKqzwGZFJ4VDl1-4" value="2.市场交易平台,提供blender工程,模型买卖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1688" y="65" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eRc_ZCSKqzwGZFJ4VDl1-5" value="3.提供模型代做,项目代做,优化等3d工作相关功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="eRc_ZCSKqzwGZFJ4VDl1-5" value="3.提供模型代做,项目代做,优化等3d工作相关功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1690" y="95" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eRc_ZCSKqzwGZFJ4VDl1-6" value="4.空间购买服务,用户上传项目,文件，需要空间存储,超过基础空间后,需要购买空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="eRc_ZCSKqzwGZFJ4VDl1-6" value="4.空间购买服务,用户上传项目,文件，需要空间存储,超过基础空间后,需要购买空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1690" y="125" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
