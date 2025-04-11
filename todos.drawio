@@ -914,6 +914,12 @@
         <mxCell id="gt-teIyEf3rzEEjutes8-7" value="动画摄影表--模式(动作编辑器)--创建action" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="770" y="190" width="280" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="gt-teIyEf3rzEEjutes8-9" value="&lt;div&gt;// 3.根据动画剪辑创建一个动画剪辑实例&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;var action = mixer.clipAction(clip);&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gt-teIyEf3rzEEjutes8-10" value="&lt;div&gt;// 4.通过动画剪辑实例播放动画&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;action.play();&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="380" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
