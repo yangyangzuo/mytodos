@@ -404,7 +404,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="基础科学" id="o6YkjQdDF1RqOcQpJtPp">
-    <mxGraphModel dx="1486" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2112" dy="2352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -914,7 +914,7 @@
         <mxCell id="gt-teIyEf3rzEEjutes8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gt-teIyEf3rzEEjutes8-6" target="gt-teIyEf3rzEEjutes8-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gt-teIyEf3rzEEjutes8-6" value="&lt;div&gt;// 2.获取某个动画剪辑&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;var clip = gltf.animations[3];&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// 或者&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// var clip = THREE.AnimationClip.findByName( gltf.animations, &#39;run&#39; );&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="gt-teIyEf3rzEEjutes8-6" value="&lt;div&gt;// 2.获取某个动画剪辑(AnimationClip)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;var clip = gltf.animations[3];&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// 或者&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// var clip = THREE.AnimationClip.findByName( gltf.animations, &#39;run&#39; );&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="380" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gt-teIyEf3rzEEjutes8-7" value="动画摄影表--模式(动作编辑器)--创建action" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
