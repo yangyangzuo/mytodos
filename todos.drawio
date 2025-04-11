@@ -917,8 +917,8 @@
         <mxCell id="gt-teIyEf3rzEEjutes8-6" value="&lt;div&gt;// 2.获取某个动画剪辑1(AnimationClip)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;var clip1 = gltf.animations[0];&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// 或者&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// var clip1 = THREE.AnimationClip.findByName( gltf.animations, &#39;run&#39; );&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="390" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gt-teIyEf3rzEEjutes8-7" value="动画摄影表--模式(动作编辑器)--创建action1" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="770" y="190" width="280" height="70" as="geometry" />
+        <mxCell id="gt-teIyEf3rzEEjutes8-7" value="动画摄影表--模式(动作编辑器)--创建 动作剪辑(action1)" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="770" y="190" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fIKsHyU5XxYBBXZy3mJK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gt-teIyEf3rzEEjutes8-9" target="fIKsHyU5XxYBBXZy3mJK-4">
           <mxGeometry relative="1" as="geometry" />
@@ -938,8 +938,8 @@
         <mxCell id="fIKsHyU5XxYBBXZy3mJK-2" value="&lt;div&gt;// 2.获取某个动画剪辑2(AnimationClip)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;var clip2 = gltf.animations[1];&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// 或者&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// var clip2 = THREE.AnimationClip.findByName( gltf.animations, &#39;run&#39; );&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="390" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fIKsHyU5XxYBBXZy3mJK-3" value="动画摄影表--模式(动作编辑器)--创建action2" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="770" y="260" width="280" height="70" as="geometry" />
+        <mxCell id="fIKsHyU5XxYBBXZy3mJK-3" value="动画摄影表--模式(动作编辑器)--创建 动作剪辑(action2)" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="770" y="260" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fIKsHyU5XxYBBXZy3mJK-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Nonlinear Animation (非线性动画 编辑器/混合器&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="770" y="410" width="280" height="70" as="geometry" />
