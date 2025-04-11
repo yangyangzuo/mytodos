@@ -914,17 +914,38 @@
         <mxCell id="gt-teIyEf3rzEEjutes8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gt-teIyEf3rzEEjutes8-6" target="gt-teIyEf3rzEEjutes8-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gt-teIyEf3rzEEjutes8-6" value="&lt;div&gt;// 2.获取某个动画剪辑(AnimationClip)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;var clip = gltf.animations[3];&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// 或者&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// var clip = THREE.AnimationClip.findByName( gltf.animations, &#39;run&#39; );&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="40" y="190" width="380" height="70" as="geometry" />
+        <mxCell id="gt-teIyEf3rzEEjutes8-6" value="&lt;div&gt;// 2.获取某个动画剪辑1(AnimationClip)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;var clip1 = gltf.animations[0];&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// 或者&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// var clip1 = THREE.AnimationClip.findByName( gltf.animations, &#39;run&#39; );&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="390" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gt-teIyEf3rzEEjutes8-7" value="动画摄影表--模式(动作编辑器)--创建action" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="gt-teIyEf3rzEEjutes8-7" value="动画摄影表--模式(动作编辑器)--创建action1" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="770" y="190" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gt-teIyEf3rzEEjutes8-9" value="&lt;div&gt;// 3.根据动画剪辑创建一个动画剪辑实例&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;var action = mixer.clipAction(clip);&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="40" y="300" width="380" height="50" as="geometry" />
+        <mxCell id="fIKsHyU5XxYBBXZy3mJK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gt-teIyEf3rzEEjutes8-9" target="fIKsHyU5XxYBBXZy3mJK-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gt-teIyEf3rzEEjutes8-10" value="&lt;div&gt;// 4.通过动画剪辑实例播放动画&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;action.play();&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="40" y="390" width="380" height="50" as="geometry" />
+        <mxCell id="gt-teIyEf3rzEEjutes8-9" value="&lt;div&gt;// 3.根据动画剪辑创建动画剪辑实例&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;var action1 = mixer.clipAction(clip1);&lt;br&gt;&lt;/span&gt;var action2 = mixer.clipAction(clip2);&lt;br&gt;&lt;div&gt;&lt;br&gt;// 动作剪辑实例播放(混合)参数设置&lt;br&gt;action1.loop = THREE.LoopOnce; //动画只播放一次&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;action2.clampWhenFinished = true; //播放完成后,保持动画最后一帧&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="380" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fIKsHyU5XxYBBXZy3mJK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gt-teIyEf3rzEEjutes8-10" target="fIKsHyU5XxYBBXZy3mJK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gt-teIyEf3rzEEjutes8-10" value="&lt;div&gt;// 4.通过动画剪辑实例播放动画&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;action1.play();&lt;br&gt;&lt;/span&gt;action2.play();&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fIKsHyU5XxYBBXZy3mJK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fIKsHyU5XxYBBXZy3mJK-2" target="fIKsHyU5XxYBBXZy3mJK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fIKsHyU5XxYBBXZy3mJK-2" value="&lt;div&gt;// 2.获取某个动画剪辑2(AnimationClip)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;var clip2 = gltf.animations[1];&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// 或者&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;// var clip2 = THREE.AnimationClip.findByName( gltf.animations, &#39;run&#39; );&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fIKsHyU5XxYBBXZy3mJK-3" value="动画摄影表--模式(动作编辑器)--创建action2" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="770" y="260" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fIKsHyU5XxYBBXZy3mJK-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Nonlinear Animation (非线性动画 编辑器/混合器&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="770" y="410" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fIKsHyU5XxYBBXZy3mJK-6" value="&lt;div&gt;timeline 播放动画&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="770" y="560" width="280" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
