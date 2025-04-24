@@ -923,11 +923,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LEyjf_ZhHKUIOjKrWcwh-7" value="tileloader" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LEyjf_ZhHKUIOjKrWcwh-7" value="tileloader&lt;br&gt;(loader)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LEyjf_ZhHKUIOjKrWcwh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.783;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LEyjf_ZhHKUIOjKrWcwh-8" target="LEyjf_ZhHKUIOjKrWcwh-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LEyjf_ZhHKUIOjKrWcwh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.783;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="628.86" as="sourcePoint" />
+            <mxPoint x="433.9599999999998" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LEyjf_ZhHKUIOjKrWcwh-8" value="roottile" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="600" width="120" height="60" as="geometry" />
@@ -939,7 +942,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LEyjf_ZhHKUIOjKrWcwh-13" value="tilemaploader" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LEyjf_ZhHKUIOjKrWcwh-13" value="tilemaploader&lt;br&gt;(_loader)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEyjf_ZhHKUIOjKrWcwh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.676;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LEyjf_ZhHKUIOjKrWcwh-4" target="LEyjf_ZhHKUIOjKrWcwh-13">
