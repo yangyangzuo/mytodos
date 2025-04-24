@@ -892,39 +892,58 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1zpjrlD_P3rjRZ8q3R2h" name="three-tile">
-    <mxGraphModel dx="1972" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1145" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LEyjf_ZhHKUIOjKrWcwh-2" value="tilemap" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEyjf_ZhHKUIOjKrWcwh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LEyjf_ZhHKUIOjKrWcwh-3" target="LEyjf_ZhHKUIOjKrWcwh-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LEyjf_ZhHKUIOjKrWcwh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LEyjf_ZhHKUIOjKrWcwh-3" target="LEyjf_ZhHKUIOjKrWcwh-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LEyjf_ZhHKUIOjKrWcwh-3" value="imgsource" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEyjf_ZhHKUIOjKrWcwh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LEyjf_ZhHKUIOjKrWcwh-4" target="LEyjf_ZhHKUIOjKrWcwh-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LEyjf_ZhHKUIOjKrWcwh-4" value="demsource" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LEyjf_ZhHKUIOjKrWcwh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LEyjf_ZhHKUIOjKrWcwh-7" target="LEyjf_ZhHKUIOjKrWcwh-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LEyjf_ZhHKUIOjKrWcwh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="LEyjf_ZhHKUIOjKrWcwh-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210.84" y="150" as="sourcePoint" />
+            <mxPoint x="389.99999999999983" y="315.15999999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="211" y="315" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LEyjf_ZhHKUIOjKrWcwh-7" value="tileloader" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LEyjf_ZhHKUIOjKrWcwh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.783;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LEyjf_ZhHKUIOjKrWcwh-8" target="LEyjf_ZhHKUIOjKrWcwh-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LEyjf_ZhHKUIOjKrWcwh-8" value="roottile" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LEyjf_ZhHKUIOjKrWcwh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LEyjf_ZhHKUIOjKrWcwh-13" target="LEyjf_ZhHKUIOjKrWcwh-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="315" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LEyjf_ZhHKUIOjKrWcwh-13" value="tilemaploader" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LEyjf_ZhHKUIOjKrWcwh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.676;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LEyjf_ZhHKUIOjKrWcwh-4" target="LEyjf_ZhHKUIOjKrWcwh-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
