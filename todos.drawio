@@ -888,20 +888,20 @@
         <mxCell id="3aOI1FlEyhOlydNBusNj-4" value="3dtile的创建和解析加载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="264" y="120" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UIXeG20iZydWp36GJW2k-2" value="&amp;nbsp;6:00-9:00 webgpu&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="250" width="130" height="30" as="geometry" />
+        <mxCell id="UIXeG20iZydWp36GJW2k-2" value="&amp;nbsp;6:00-9:00 webgpu&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UIXeG20iZydWp36GJW2k-3" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;web3d项目&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="265" y="340" width="90" height="30" as="geometry" />
+        <mxCell id="UIXeG20iZydWp36GJW2k-3" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;web3d项目&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UIXeG20iZydWp36GJW2k-4" value="&lt;div&gt;9:00-12:00 blender121&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="269" y="300" width="140" height="30" as="geometry" />
+        <mxCell id="UIXeG20iZydWp36GJW2k-4" value="&lt;div&gt;9:00-13:00 blender121&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UIXeG20iZydWp36GJW2k-5" value="&lt;div&gt;&amp;nbsp;14:00-17:00 医院管理端&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="380" width="160" height="30" as="geometry" />
+        <mxCell id="UIXeG20iZydWp36GJW2k-5" value="&lt;div&gt;&amp;nbsp;14:00-17:00 医院管理端&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UIXeG20iZydWp36GJW2k-6" value="&lt;br&gt;&lt;div&gt;17:00-19:00 教育小程序&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="410" width="150" height="40" as="geometry" />
+        <mxCell id="UIXeG20iZydWp36GJW2k-6" value="&lt;div&gt;17:00-19:00 教育小程序&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
