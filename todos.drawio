@@ -911,26 +911,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-1" value="main(主进程):&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;nodejs环境" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="300" y="260" width="140" height="40" as="geometry" />
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="435.02857142857147" as="sourcePoint" />
+            <mxPoint x="335" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XcdLA2ZZnbkOYpqrEuxt-2" target="XcdLA2ZZnbkOYpqrEuxt-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370.02857142857147" y="500" as="sourcePoint" />
+            <mxPoint x="370" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-2" value="render(渲染进程):&#xa;一个窗口,浏览器环境" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="410" width="180" height="50" as="geometry" />
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.781;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="435.02857142857147" as="sourcePoint" />
+            <mxPoint x="409.3399999999999" y="300.28" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XcdLA2ZZnbkOYpqrEuxt-6" target="XcdLA2ZZnbkOYpqrEuxt-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-14" value="一个主进程可以管理多个渲染进程&lt;div&gt;(render)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-6" value="render(渲染进程):&#xa;一个窗口,浏览器环境" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280" y="500" width="180" height="50" as="geometry" />
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-15" value="main(主进程):&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;nodejs环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-7" value="render(渲染进程):&#xa;一个窗口,浏览器环境" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="480" y="410" width="180" height="50" as="geometry" />
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-16" value="render(渲染进程):&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;一个窗口,浏览器环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.781;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XcdLA2ZZnbkOYpqrEuxt-7" target="XcdLA2ZZnbkOYpqrEuxt-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-17" value="render(渲染进程):&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;一个窗口,浏览器环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-18" value="render(渲染进程):&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;一个窗口,浏览器环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
