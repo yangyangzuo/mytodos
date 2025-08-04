@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.6" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.0.7" pages="9">
   <diagram id="aJMyZLpS-x2sk-VEkuCF" name="目标">
     <mxGraphModel dx="2006" dy="2293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -902,6 +902,35 @@
         </mxCell>
         <mxCell id="UIXeG20iZydWp36GJW2k-6" value="&lt;div&gt;17:00-19:00 教育小程序&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="420" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OC55cecG-QBCpqml-7KO" name="第 9 页">
+    <mxGraphModel dx="1145" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-1" value="main(主进程):&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;nodejs环境" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XcdLA2ZZnbkOYpqrEuxt-2" target="XcdLA2ZZnbkOYpqrEuxt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-2" value="render(渲染进程):&#xa;一个窗口,浏览器环境" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XcdLA2ZZnbkOYpqrEuxt-6" target="XcdLA2ZZnbkOYpqrEuxt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-6" value="render(渲染进程):&#xa;一个窗口,浏览器环境" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-7" value="render(渲染进程):&#xa;一个窗口,浏览器环境" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XcdLA2ZZnbkOYpqrEuxt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.781;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XcdLA2ZZnbkOYpqrEuxt-7" target="XcdLA2ZZnbkOYpqrEuxt-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
